@@ -76,3 +76,4 @@ Ce projet est un tableau de bord interactif réalisé avec Power BI pour explore
 #### 2. Explorer le tableau de bord
   - Utilise les filtres pour analyser les ventes par année, trimestre, mois ou pays.
 	-	Consulte les cartes et graphiques interactifs pour une meilleure compréhension des tendances.
+## Aperçu du tableau de bord
