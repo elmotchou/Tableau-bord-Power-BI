@@ -82,4 +82,10 @@ Boutiaues:
 Ventes:
 ![texte alternatif](https://github.com/elmotchou/Tableau-bord-Power-BI/blob/main/Ventes.png)
 Produits:
+![texte alternatif](https://github.com/elmotchou/Tableau-bord-Power-BI/blob/main/Produits.png)
+
+## Informations supplémentaires
+  - Années analysées : 2020 et 2021
+  - Outil utilisé : Power BI Desktop
+  - Données : Données de ventes fictives importées à partir de fichiers CSV
 
