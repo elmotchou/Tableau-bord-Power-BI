@@ -77,4 +77,9 @@ Ce projet est un tableau de bord interactif réalisé avec Power BI pour explore
   - Utilise les filtres pour analyser les ventes par année, trimestre, mois ou pays.
 	-	Consulte les cartes et graphiques interactifs pour une meilleure compréhension des tendances.
 ## Aperçu du tableau de bord
+Boutiaues:
 ![texte alternatif](https://github.com/elmotchou/Tableau-bord-Power-BI/blob/main/boutiques.png)
+Ventes:
+![texte alternatif](https://github.com/elmotchou/Tableau-bord-Power-BI/blob/main/Ventes.png)
+Produits:
+
